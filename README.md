@@ -14,8 +14,7 @@ Focus areas:
 - exploring zero spacing and local structure  
 - testing simple constraint-style diagnostics  
 
-This project does not claim a proof of the Riemann Hypothesis.  
-Instead, it builds transparent experiments to better understand its structure.
+We study residual-flow dynamics built from numerical evaluations of the Riemann zeta function and show that a structured interaction basis yields a stable, interpretable governing field across regimes.
 
 ---
 
